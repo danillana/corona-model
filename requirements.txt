@@ -1,3 +1,5 @@
 numpy
+matplotlib
 ipywidgets
 nbinteract
+jupyter_contrib_nbextensions
